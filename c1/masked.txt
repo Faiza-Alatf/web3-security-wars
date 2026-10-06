@@ -1,0 +1,5 @@
+wallet1_private_key = 0xA123****def
+wallet2_private_key = 0xB456****abc
+api_key = ABCD****456
+wallet_address = 0x742d****44e
+db_password = Supe****026

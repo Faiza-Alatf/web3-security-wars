@@ -1,0 +1,5 @@
+TX001 | Alice | Bob | 2 ETH
+TX002 | Bob | ScamWallet | 8 ETH
+TX003 | Alice | Bob | 1 ETH
+TX004 | ScamWallet | Mixer | 7 ETH
+TX005 | Bob | Unknown | 15 ETH
